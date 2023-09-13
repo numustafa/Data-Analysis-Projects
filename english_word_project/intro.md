@@ -1,1 +1,0 @@
-This is a Basic Project for developing common data handelling and data manipulation skills in Pandas.
