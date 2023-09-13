@@ -13,3 +13,6 @@ The following topics are covered in this learning tutorial:
 * Exporting and importing data from relational databases
 
 ## Problem Statement
+We'll learn about relational database and SQL by working through the following [problem](https://www.mysqltutorial.org/mysql-sample-database.aspx)
+
+    *QUESTION*: Classic Models Inc. is a manufacturer of small scale models of cars, motorcycles, planes, ships trains etc. Products manufactured by Classic Models are sold in toy & gift stores around the world. Here's a small sample of their products
