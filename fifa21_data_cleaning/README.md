@@ -25,7 +25,7 @@ The Data Cleaning process involves:
 * Data Exploration - The Dataset was throughly examined to identify issues and inconsistencies. The data does not have a data dictionary, so the data was explored manually. With the help of online sources I was able to create one that helped me gain an understanding of what all the columns represented, identify patterns and uncover anomalies
 * Missing Values 
 * Standardizing Formatting 
-* Validation and Quality checks - The cleaned dataset underwent rigorous validation to ensure the quality, accuracy and integrity of the data.
+
 
 ## Conclusion
 The cleaned dataset was exported as a CSV file and is available in the repository. The cleaned dataset can be used for further analysis and visualization.
